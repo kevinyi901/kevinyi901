@@ -14,7 +14,7 @@ projects that I can share with you.
 <li>Description: A project cleaning, exploring, and visualizing 2008-2019 data from the CDC to identify racial, 
   geographical, and gender trends in Lung and Colon cancer in America. </li>
 <li>Technology: Python, Pandas, Plotly, matplotlib, Seaborn. </li>
-<li> Links to the repository: [Link Text]
+<li> Links to the repository: [https://github.com/kevinyi901/W200]
 
 </li></ul>
 </details>
