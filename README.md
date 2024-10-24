@@ -32,7 +32,8 @@ projects that I can share with you.
 <ul><li>Course: Statistics for Data Science </li>
 <li>Description: A project exploring, visualizing, and Hypothesis testing whether Republican Voters or Democrat Voters 
 have more difficulty in voting </li>
-<li> Links to the repository: [Link Text]
+<li> Links to the repository: [https://github.com/kevinyi901/W205_Stats]
+  
 </details>
 
 <!---
