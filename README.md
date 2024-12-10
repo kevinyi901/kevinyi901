@@ -12,7 +12,7 @@ In my time at MIDS, I have had the opportunity to work on several projects. Most
 <li><strong>Description:</strong>  
 Project 1: Data Wrangling to load sales data from a third-party sales channel with preliminary analytics. Used AWS and a Docker cluster running Anaconda and PostgreSQL.  
 Project 2: Created a Neo4J graph database for the Bay Area BART system to identify future distribution locations for a food delivery service. Used Graph Path to identify the shortest path from a central supply store to distribution nodes, a centrality algorithm to determine the most influential BART station to service existing customers, and a community detection algorithm to identify BART station communities. Identified additional BART station locations for future store expansion.</li>
-<li><strong>Technology:</strong> SQL, Python, NoSQL Graph Database, Relational Database, Linux CLI, Docker, Graph Path, Centrality, Community Detection Algorithms</li>
+<li><strong>Technology:</strong> SQL, Python, NoSQL Graph Database, Linux CLI, Docker Containers, Graph Path, Centrality, Community Detection Algorithms</li>
 <li><strong>Links to the repository:</strong> [https://github.com/kevinyi901/W205_DataEngineering]</li>
 </ul>
 </details>
