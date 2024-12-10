@@ -17,7 +17,7 @@ supply store to distribution nodes, centrality algorithm to determine most influ
 <li>Technology: SQL, Python, NoSQL Graph Database, Relational Database, Linux CL, Dockers, Graph Path, Centrality, Community Detection Algorithms, </li>
 <li> Links to the repository: [https://github.com/kevinyi901/W205_DataEngineering]
 
-</li></ul
+</li></ul>
 <details>
   
 <details>
