@@ -18,9 +18,7 @@ supply store to distribution nodes, centrality algorithm to determine most influ
 <li> Links to the repository: [https://github.com/kevinyi901/W205_DataEngineering]
 
 </li></ul>
-<details>
   
-<details>
 <summary>Exploratory Data Analysis of Colon and Lung Cancer</summary>
 <ul><li>Course: Introduction to Data Science Programming </li>
 <li>Description: A project cleaning, exploring, and visualizing 2008-2019 data from the CDC to identify racial, 
@@ -29,17 +27,13 @@ supply store to distribution nodes, centrality algorithm to determine most influ
 <li> Links to the repository: [https://github.com/kevinyi901/W200]
 
 </li></ul>
-</details>
 
-<details>  
   <summary>Experimental Research Design Report</summary>
 <ul><li>Course: Research Design and Applications for Data Analysis </li>
 <li>Description: A project developing a research design report that will produce valuable and actionable insight for predicting grocery product sales using existing prediction models + social media data.  </li>
 <li> Links to the repository: [https://github.com/kevinyi901/W201]
-</details>
 
 
-<details>  
   <summary>Hypothesis Testing</summary>
 <ul><li>Course: Statistics for Data Science </li>
 <li>Description: A project exploring, visualizing, and Hypothesis testing whether Republican Voters or Democrat Voters 
