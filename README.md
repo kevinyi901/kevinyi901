@@ -8,6 +8,7 @@ construction projects in Hawaii as a consulting Construction Manager/Project Eng
 In my time at MIDS, I have had the opportunity to work on several projects. Most work is on going, but here are some of the completed
 projects that I can share with you. 
 
+</details>
 <summary>SQL and NoSQL for analyzing customer sales information and make recommendations for future expansion of food delivery distribution sites.</summary>
 </details>
 <ul><li>Course: Data Engineering </li>
