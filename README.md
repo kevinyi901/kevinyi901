@@ -9,13 +9,15 @@ In my time at MIDS, I have had the opportunity to work on several projects. Most
 projects that I can share with you. 
 
 <summary>SQL and NoSQL for analyzing customer sales information and make recommendations for future expansion of food delivery distribution sites.</summary>
+</details>
 <ul><li>Course: Data Engineering </li>
 <li>Description: Project 1: Data Wrangling to load sales data from a third party sales channel with preliminary analytics. Used AWS and docker cluster running Anaconda and Postgres SQL
 Project 2: Create Neo4J graph database for Bay Area BART system to identify future distribution location for food delivery service. Use Graph Path to identify shortest path from central 
 supply store to distribution nodes, centrality algorithm to determine most influential BART station to service existing customers, and community detection algorithm to identify BART station communities. Identified additional BART Station location for future store expansion. 
 <li>Technology: SQL, Python, NoSQL Graph Database, Relational Database, Linux CL, Dockers, Graph Path, Centrality, Community Detection Algorithms, </li>
 <li> Links to the repository: [https://github.com/kevinyi901/W205_DataEngineering]
-
+</details>
+ 
 </li></ul>
 
 <summary>Hypothesis Testing and multiple variable large sample linear regression</summary>
