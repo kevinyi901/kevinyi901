@@ -1,6 +1,7 @@
 # About Me
 I'm a Data Scientist and a current graduate student at UC Berkeley's Master in Data Science (MIDS) program projected to graduate in 2025.  
 Currently, I am working as a Data Scientist for National Capitol Contracting, helping deliver strategic insights and building automation for Naval Sea Systems Command at Pearl Harbor Naval Shipyard. Before going into data science, I was an Army Infantry Officer and later managed multiple construction projects in Hawaii as a consulting Construction Manager/Project Engineer. I am a graduate of the United States Military Academy with an undegraduate degree in Civil Engineering. 
+
 ![UCB](UCB.png)
 
 # Projects
