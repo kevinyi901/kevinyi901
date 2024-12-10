@@ -24,6 +24,7 @@ Project 2: Created a Neo4J graph database for the Bay Area BART system to identi
 <li><strong>Description:</strong>  
 Project 1: A project exploring, visualizing, and conducting hypothesis testing on whether Republican voters or Democrat voters have more difficulty voting.  
 Project 2: A project evaluating if one's occupation impacts the amount of hours worked weekly using general census data.</li>
+<li><strong>Technology:</strong> R Studio, T-Test, Classical Linear Model Assumption Testing, Multi-Variate Linear Regression</li>
 <li><strong>Links to the repository:</strong> [https://github.com/kevinyi901/W203_Statistics]</li>
 </ul>
 </details>
