@@ -10,6 +10,18 @@ projects that I can share with you.
 
 <details>
 <summary>Exploratory Data Analysis of Colon and Lung Cancer</summary>
+<ul><li>Course: Data Engineering </li>
+<li>Description: Project 1: Data Wrangling to load sales data from a third party sales channel with preliminary analytics. Used AWS and docker cluster running Anaconda and Postgres SQL
+Project 2: Create Neo4J graph database for Bay Area BART system to identify future distribution location for food delivery service. Use Graph Path to identify shortest path from central 
+supply store to distribution nodes, centrality algorithm to determine most influential BART station to service existing customers, and community detection algorithm to identify BART station communities. Identified additional BART Station location for future store expansion. 
+stin</li>
+<li>Technology: SQL, Python, NoSQL Graph Database, Relational Database, Linux CL, Dockers, Graph Path, Centrality, Community Detection Algorithms, </li>
+<li> Links to the repository: [https://github.com/kevinyi901/W205_DataEngineering]
+
+</li></ul>
+
+<details>
+<summary>Exploratory Data Analysis of Colon and Lung Cancer</summary>
 <ul><li>Course: Introduction to Data Science Programming </li>
 <li>Description: A project cleaning, exploring, and visualizing 2008-2019 data from the CDC to identify racial, 
   geographical, and gender trends in Lung and Colon cancer in America. </li>
