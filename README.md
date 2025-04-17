@@ -35,7 +35,7 @@ Project 1: A project conducting an A/B testing on the effects of emojis on selle
 <ul>
 <li><strong>Course:</strong> Applied Machine Learning</li>
 <li><strong>Description:</strong>  
-Project 1: Model training and comparisons for Movie sentiment classification using one hot encoding, logistic regression with embedding, Convolutional Neural Network, Hyperparameter tuned Convolutional Neural Network
+Project 1: Model training and comparisons for Movie sentiment classification using one hot encoding, logistic regression with embedding, Convolutional Neural Network, Hyperparameter tuned Convolutional Neural Network,
             Feature Extraction Distill-Bert-SST2 Transformer, Fine Tuned Distill-Bert-SST2 Transformer
 </li>
 <li><strong>Technology:</strong> Python, Numpy, TensorFlow, Neural Network and Transformer Models for NLP</li>
