@@ -19,7 +19,7 @@ Project 2: Created a Neo4J graph database for the Bay Area BART system to identi
 
 
 <details>
-<summary>A/B Testing emoji effects on Facebook Marketplace</summary>
+<summary>A/B Testing Emoji Effects on Facebook Marketplace</summary>
 <ul>
 <li><strong>Course:</strong> Experiments and Causal Inference</li>
 <li><strong>Description:</strong>  
@@ -31,7 +31,7 @@ Project 1: A project conducting an A/B testing on the effects of emojis on selle
 
 
 <details>
-<summary>Testing various Machine Learning and Transformer Models</summary>
+<summary>Training and Testing Machine Learning and Transformer Models</summary>
 <ul>
 <li><strong>Course:</strong> Applied Machine Learning</li>
 <li><strong>Description:</strong>  
