@@ -17,6 +17,33 @@ Project 2: Created a Neo4J graph database for the Bay Area BART system to identi
 </ul>
 </details>
 
+
+<details>
+<summary>A/B Testing emoji effects on Facebook Marketplace</summary>
+<ul>
+<li><strong>Course:</strong> Experiments and Causal Inference</li>
+<li><strong>Description:</strong>  
+Project 1: A project conducting an A/B testing on the effects of emojis on seller's willingness to reduce price on Facebook Marketplace.</li>
+<li><strong>Technology:</strong> R Studio, T-Test, A/B Testing, Multi-Variate Linear Regression</li>
+<li><strong>Links to the repository:</strong> [https://github.com/kevinyi901/W241]</li>
+</ul>
+</details>
+
+
+<details>
+<summary>Testing various Machine Learning and Transformer Models</summary>
+<ul>
+<li><strong>Course:</strong> Applied Machine Learning</li>
+<li><strong>Description:</strong>  
+Project 1: Model training and comparisons for Movie sentiment classification using one hot encoding, logistic regression with embedding, Convolutional Neural Network, Hyperparameter tuned Convolutional Neural Network
+            Feature Extraction Distill-Bert-SST2 Transformer, Fine Tuned Distill-Bert-SST2 Transformer
+</li>
+<li><strong>Technology:</strong> Python, Numpy, TensorFlow, Neural Network and Transformer Models for NLP</li>
+<li><strong>Links to the repository:</strong> [https://github.com/kevinyi901/W207]</li>
+</ul>
+</details>
+
+
 <details>
 <summary>Hypothesis Testing and Multiple Variable Large Sample Linear Regression</summary>
 <ul>
