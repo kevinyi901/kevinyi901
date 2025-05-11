@@ -6,7 +6,7 @@ Currently, I am working as a Data Engineer/Data Scientist for SAIC on a Defense 
 In my time at MIDS, I have had the opportunity to work on several projects. Most work is ongoing, but here are some of the completed projects that I can share with you:
 
 <details>
-<summary>SQL and NoSQL for analyzing customer sales information and making recommendations for future expansion of food delivery distribution sites</summary>
+<summary> SQL and NOSQL Database usage with customer sales information and food delivery distribution site analytics</summary>
 <ul>
 <li><strong>Course:</strong> Data Engineering</li>
 <li><strong>Description:</strong>  
@@ -19,7 +19,7 @@ Project 2: Created a Neo4J graph database for the Bay Area BART system to identi
 
 
 <details>
-<summary>A/B Testing Emoji Effects on Facebook Marketplace</summary>
+<summary>A/B Experimental Design and Testing of Emoji Effects on Facebook Marketplace Sales Negotiation</summary>
 <ul>
 <li><strong>Course:</strong> Experiments and Causal Inference</li>
 <li><strong>Description:</strong>  
@@ -31,7 +31,7 @@ Project 1: A project conducting an A/B testing on the effects of emojis on selle
 
 
 <details>
-<summary>Training and Testing Machine Learning and Transformer Models</summary>
+<summary>Training and Testing ML and AI Models for Sentiment Classification</summary>
 <ul>
 <li><strong>Course:</strong> Applied Machine Learning</li>
 <li><strong>Description:</strong>  
