@@ -6,7 +6,7 @@ Currently, I am working as a Data Engineer/Data Scientist for SAIC on a Defense 
 In my time at MIDS, I have had the opportunity to work on several projects. Most work is ongoing, but here are some of the completed projects that I can share with you:
 
 <details>
-<summary> SQL and NOSQL Database usage with customer sales information and food delivery distribution site analytics</summary>
+<summary> Food delivery company customer and distribution site analytics</summary>
 <ul>
 <li><strong>Course:</strong> Data Engineering</li>
 <li><strong>Description:</strong>  
