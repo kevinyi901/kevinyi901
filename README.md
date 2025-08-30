@@ -1,6 +1,11 @@
 # About Me
-I'm a Data Scientist and a current graduate student at UC Berkeley's Master in Data Science (MIDS) program projected to graduate in 2025.  
-Currently, I am working as a Data Engineer/Data Scientist for SAIC on a Defense Advanced Research Projects Agency (DARPA) project. Previously I was working for National Capitol Contracting, helping deliver strategic data insights and building data automation for Naval Sea Systems Command at Pearl Harbor Naval Shipyard. Before going into data science, I was an Army Infantry Officer and later managed multiple construction projects in Hawaii as a Construction Manager/Project Engineer. I am a graduate of the United States Military Academy with an undegraduate degree in Civil Engineering. 
+👋 About Me
+
+Hi, I’m Kevin Yi — a Principal Data Engineer with a background as a U.S. Army officer and civil engineer, now focused on data science, machine learning, and large-scale data systems. I’m currently pursuing my Master of Information and Data Science at UC Berkeley, where I’m working on projects in predictive modeling, distributed computing, and AI applications at scale.
+
+I specialize in designing and automating real-time data pipelines, building machine learning models that drive actionable insights, and creating dashboards and monitoring systems that ensure reliability in mission-critical environments. My experience spans defense, engineering, and enterprise analytics, and I enjoy tackling problems where technology directly impacts operations and decision-making.
+
+I’m passionate about combining technical depth with leadership experience to help organizations use data more effectively.
 
 # Projects
 In my time at MIDS, I have had the opportunity to work on several projects. Most work is ongoing, but here are some of the completed projects that I can share with you:
