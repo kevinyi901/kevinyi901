@@ -43,6 +43,17 @@ Project 1: Model training and comparisons for Movie sentiment classification usi
 </ul>
 </details>
 
+<details>
+<summary>Predicting U.S. Domestic Airline Departure Delays Using Multiclass Classification with Graph-Based and Weather-Enriched Features</summary>
+<ul>
+<li><strong>Course:</strong> Machine Learning at Scale</li>
+<li><strong>Description:</strong>  
+Project 1: A project conducting an A/B testing on the effects of emojis on seller's willingness to reduce price on Facebook Marketplace.</li>
+<li><strong>Technology:</strong> Databricks, Spark, Logistic Classification </li>
+<li><strong>Links to the repository:</strong> [https://github.com/kevinyi901/W261]</li>
+</ul>
+</details>
+
 
 <details>
 <summary>Hypothesis Testing and Multiple Variable Large Sample Linear Regression</summary>
