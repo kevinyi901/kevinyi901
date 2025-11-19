@@ -1,7 +1,7 @@
 # About Me
 👋 About Me
 
-Hi, I’m Kevin Yi — a Principal Data Engineer with a background as a U.S. Army officer and civil engineer, now focused on data science, machine learning, and large-scale data systems. I’m currently pursuing my Master of Information and Data Science at UC Berkeley, where I’m working on projects in predictive modeling, distributed computing, and AI applications at scale.
+Hi, I’m Kevin Yi — a Principal Data Engineer with a background as a U.S. Army officer and civil engineer, now focused on data science, AI/ML, and large-scale data systems. I’m currently pursuing my Master of Information and Data Science at UC Berkeley, where I’m working on projects in predictive modeling, distributed computing, and AI applications at scale.
 
 I specialize in designing and automating real-time data pipelines, building machine learning models that drive actionable insights, and creating dashboards and monitoring systems that ensure reliability in mission-critical environments. My experience spans defense, engineering, and enterprise analytics, and I enjoy tackling problems where technology directly impacts operations and decision-making.
 
