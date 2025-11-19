@@ -13,7 +13,7 @@ In my time at MIDS, I have had the opportunity to work on several projects. Most
 <details>
 <summary>Legal Document Retrieval RAG Pipeline with GPU-Accelerated Search</summary>
 <ul>
-<li><strong>Type:</strong> Machine Learning Infrastructure & NLP</li>
+<li><strong>Type:</strong> RAG Model</li>
 <li><strong>Description:</strong>  
 Designed and deployed a production-ready Retrieval-Augmented Generation (RAG) pipeline for querying legal documents across multiple jurisdictions. Built a Docker-containerized API service on AWS EC2 (GPU-enabled) that integrates Pinecone vector database, LLaMA 3.1 8B language model with 4-bit quantization, and cross-encoder reranking for high-accuracy document retrieval. Implemented dual search modes: baseline dense embedding search and hybrid search combining dense/sparse embeddings with reranking. Pipeline processes natural language queries, applies multi-dimensional filters (location, legal tags, readability metrics), and generates CSV exports with LLM-generated summaries for frontend integration. Optimized for GPU efficiency with persistent model caching, reducing query time from 15 minutes to 30 seconds after initial load.</li>
 <li><strong>Technology:</strong> Python, Docker, AWS EC2 (GPU), Pinecone Vector DB, LLaMA 3.1 8B, Hugging Face Transformers, Flask REST API, CUDA, 4-bit Quantization, Pandas, Git</li>
